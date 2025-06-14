@@ -38,7 +38,6 @@ A full-stack Event Management Web Application built using **React.js**, **Node.j
 ### 📅 Event Listings
 ![Events Page](./assets/screenshots/events.png)
 
-> Make sure to save your images inside the path: `./assets/screenshots/`
 
 ---
 
