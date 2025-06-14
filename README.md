@@ -26,7 +26,7 @@ A full-stack Event Management Web Application built using **React.js**, **Node.j
 ![Home Page](https://github.com/Anusha-2024/Event-Management-System/blob/main/Screenshot%202025-06-14%20133822.png?raw=true)
 
 ### 👤 Login Page
-![Login Page](https://github.com/Anusha-2024/Event-Management-System/blob/main/Screenshot%202025-06-14%20133502.png?raw=true)
+![Login Page](https://github.com/Anusha-2024/Event-Management-System/blob/main/Screenshot%202025-06-14%20133856.png?raw=true)
 
 
 ## 🛠️ Tech Stack
