@@ -1,0 +1,4 @@
+# Screenshot Paths
+./assets/screenshots/events.png
+./assets/screenshots/welcome.png
+./assets/screenshots/login.png
