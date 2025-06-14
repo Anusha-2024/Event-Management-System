@@ -113,3 +113,6 @@ Created by **Anusha**
 📧 Gmail: **krianusha09@gmail.com**  
 
 ---
+
+## License
+This project is licensed under the MIT License
