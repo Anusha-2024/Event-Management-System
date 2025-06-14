@@ -27,19 +27,6 @@ A full-stack Event Management Web Application built using **React.js**, **Node.j
 
 ---
 
-## 📸 Screenshots
-
-### 🖥️ Welcome Page
-![Welcome Page](./assets/screenshots/welcome.png)
-
-### 🔐 Login Page
-![Login Page](./assets/screenshots/login.png)
-
-### 📅 Event Listings
-![Events Page](./assets/screenshots/events.png)
-
-
----
 
 ## ⚙️ Installation
 
